@@ -1,1 +1,1 @@
-# spring-batch-study
+# spring-boot-study
