@@ -1,0 +1,1 @@
+insert into user values(1,'name1','pwd1',18);
